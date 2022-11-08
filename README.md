@@ -18,7 +18,7 @@ My goal is always to make things as fast and small as possible. I like it when s
 * String similarity, and how to compute it without using dynamic programming.
 
 #### Contact:
-* [My website](stephantul.github.io)
+* [My website](https://stephantul.github.io)
 * [Google Scholar](https://scholar.google.com/citations?user=pvoqmHQAAAAJ)
 * [Twitter](https://twitter.com/tulkenss)
 
