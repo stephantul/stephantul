@@ -10,7 +10,7 @@ My goal is always to make things as fast and small as possible. I like it when s
 #### I’m currently working on 🏃‍♂️:
 * [reach](https://github.com/stephantul/reach): a library for loading and working with word embeddings.
 * [piecelearn](https://github.com/stephantul/piecelearn): a library that trains a subword tokenizer and embeddings on the same corpus, giving you open vocabulary embeddings.
-* [skembed](https://github.com/stephantul/skembed): a static embedder for use in scikit-learn pipelines.
+* [unitoken](https://github.com/stephantul/unitoken): a library for easy pre-tokenization.
 
 #### My research interests 🤖:
 * Tokenizers, specifically subword tokenizers.
