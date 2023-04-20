@@ -11,6 +11,14 @@ My goal is always to make things as fast and small as possible. I like it when s
 * [reach](https://github.com/stephantul/reach): a library for loading and working with word embeddings.
 * [piecelearn](https://github.com/stephantul/piecelearn): a library that trains a subword tokenizer and embeddings on the same corpus, giving you open vocabulary embeddings.
 * [unitoken](https://github.com/stephantul/unitoken): a library for easy pre-tokenization.
+* [hashing_split](https://github.com/stephantul/hashing_split): a library for hash-based data splits (stable splits!)
+
+### Other stuff I made (most of it from my Phd) 🐕:
+* [wordkit](https://github.com/clips/wordkit): a library for working with orthography
+* [old20](https://github.com/stephantul/old20): calculate the orthographic levenshtein distance 20 metric.
+* [metameric](https://github.com/clips/metameric): fast interactive activation networks in numpy.
+* [humumls](https://github.com/clips/humumls): load the UMLS database into a mongodb instance. Fast!
+* [dutchembeddings](https://github.com/clips/dutchembeddings): word embeddings for dutch (back when this was a cool thing to do)
 
 #### My research interests 🤖:
 * Tokenizers, specifically subword tokenizers.
