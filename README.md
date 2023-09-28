@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Stéphan Tulkens! I'm a computational linguistics/AI person. I am currently working as a data scientist at [dataprovider.com](https://www.dataprovider.com), where I mainly work on small classifiers that operate on large volumes of web text. I live in beautiful Groningen, together with my partner and twin boy and girl. 
+I'm Stéphan Tulkens! I'm a computational linguistics/AI person. I am currently working as a data scientist at [Metamaze](https://metamaze.eu/), where I work with transformers and generative AI models to automate document processing.
 
 I got my Phd at [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) at the University of Antwerpen under the watchful eyes of Walter Daelemans (Computational Linguistics) and Dominiek Sandra (Psycholinguistics). The topic of my Phd was the way people process orthography during reading. You can find a copy [here](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11519863597548395702).
 Before that I studied computational linguistics (Ma), philosophy (Ba) and software engineering (Ba)
