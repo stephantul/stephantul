@@ -8,6 +8,7 @@ Before that I studied computational linguistics (Ma), philosophy (Ba) and softwa
 My goal is always to make things as fast and small as possible. I like it when simple models work well, and I love it when simple models get close in accuracy to big models. I do not believe absolute accuracy is a metric to be chased, and I think we should always be mindful of what a model computes or learns from the data.
 
 #### I’m currently working on 🏃‍♂️:
+* [vicinity](https://github.com/MinishLab/vicinity): a ANN/Knn interface library.
 * [model2vec](https://github.com/MinishLab/model2vec): a library for creating extremely fast sentence-transformers through distillation.
 * [reach](https://github.com/stephantul/reach): a library for loading and working with word embeddings.
 
