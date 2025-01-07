@@ -10,6 +10,7 @@ My goal is always to make things as fast and small as possible. I like it when s
 #### I’m currently working on 🏃‍♂️:
 * [vicinity](https://github.com/MinishLab/vicinity): a ANN/Knn interface library.
 * [model2vec](https://github.com/MinishLab/model2vec): a library for creating extremely fast sentence-transformers through distillation.
+* [semhash](https://github.com/MinishLab/semhash): a library for data deduplication and other dataset work.
 * [reach](https://github.com/stephantul/reach): a library for loading and working with word embeddings.
 
 ### Other stuff I made (most of it from my Phd) 🐕:
