@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Stéphan Tulkens! I'm a computational linguistics/AI person. I am currently working as a machine learning engineer at [Ecosia](https://ecosia.org). I am one of the two founding members of [The Minish Lab](https://github.com/MinishLab).
+I'm Stéphan Tulkens! I'm a computational linguistics/AI person. I am currently working as a machine learning engineer at [Ecosia](https://ecosia.org). I am one of the two founding members of [Minish](https://github.com/MinishLab).
 
 I got my Phd at [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) at the University of Antwerpen under the watchful eyes of Walter Daelemans (Computational Linguistics) and Dominiek Sandra (Psycholinguistics). The topic of my Phd was the way people process orthography during reading. You can find a copy [here](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=11519863597548395702).
 Before that I studied computational linguistics (Ma), philosophy (Ba) and software engineering (Ba)
