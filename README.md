@@ -8,6 +8,7 @@ Before that I studied computational linguistics (Ma), philosophy (Ba) and softwa
 My goal is always to make things as fast and small as possible. I like it when simple models work well, and I love it when simple models get close in accuracy to big models. I do not believe absolute accuracy is a metric to be chased, and I think we should always be mindful of what a model computes or learns from the data.
 
 ### I am currently working on:
+* [pyNIFE](github.com/stephantul/pynife): Extremely fast retrieval for any vector store
 * [skeletoken](github.com/stephantul/skeletoken): missing tokenizers tools
 
 ### Minish stuff I made:
